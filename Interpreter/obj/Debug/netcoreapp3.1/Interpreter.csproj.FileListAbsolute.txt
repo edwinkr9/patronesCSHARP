@@ -1,0 +1,12 @@
+C:\Users\edwin\Desktop\Xdxdxd\Interpreter\bin\Debug\netcoreapp3.1\Interpreter.exe
+C:\Users\edwin\Desktop\Xdxdxd\Interpreter\bin\Debug\netcoreapp3.1\Interpreter.deps.json
+C:\Users\edwin\Desktop\Xdxdxd\Interpreter\bin\Debug\netcoreapp3.1\Interpreter.runtimeconfig.json
+C:\Users\edwin\Desktop\Xdxdxd\Interpreter\bin\Debug\netcoreapp3.1\Interpreter.runtimeconfig.dev.json
+C:\Users\edwin\Desktop\Xdxdxd\Interpreter\bin\Debug\netcoreapp3.1\Interpreter.dll
+C:\Users\edwin\Desktop\Xdxdxd\Interpreter\bin\Debug\netcoreapp3.1\Interpreter.pdb
+C:\Users\edwin\Desktop\Xdxdxd\Interpreter\obj\Debug\netcoreapp3.1\Interpreter.AssemblyInfoInputs.cache
+C:\Users\edwin\Desktop\Xdxdxd\Interpreter\obj\Debug\netcoreapp3.1\Interpreter.AssemblyInfo.cs
+C:\Users\edwin\Desktop\Xdxdxd\Interpreter\obj\Debug\netcoreapp3.1\Interpreter.csproj.CoreCompileInputs.cache
+C:\Users\edwin\Desktop\Xdxdxd\Interpreter\obj\Debug\netcoreapp3.1\Interpreter.dll
+C:\Users\edwin\Desktop\Xdxdxd\Interpreter\obj\Debug\netcoreapp3.1\Interpreter.pdb
+C:\Users\edwin\Desktop\Xdxdxd\Interpreter\obj\Debug\netcoreapp3.1\Interpreter.genruntimeconfig.cache

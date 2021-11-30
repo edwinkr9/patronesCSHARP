@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QrxHPR7BkDv9InWqHetvYanKMY/yGMXoajPaYPR4wy0X7fsmcioWPU/o6adXmKnXQZ95a8P2oWGq3h3qxrZe+g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\edwin\\Desktop\\Xdxdxd\\AplicacionReal\\AplicacionReal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\edwin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

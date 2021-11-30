@@ -1,0 +1,13 @@
+C:\Users\edwin\Desktop\Xdxdxd\AplicacionProxy\bin\Debug\netcoreapp3.1\AplicacionProxy.exe
+C:\Users\edwin\Desktop\Xdxdxd\AplicacionProxy\bin\Debug\netcoreapp3.1\AplicacionProxy.deps.json
+C:\Users\edwin\Desktop\Xdxdxd\AplicacionProxy\bin\Debug\netcoreapp3.1\AplicacionProxy.runtimeconfig.json
+C:\Users\edwin\Desktop\Xdxdxd\AplicacionProxy\bin\Debug\netcoreapp3.1\AplicacionProxy.runtimeconfig.dev.json
+C:\Users\edwin\Desktop\Xdxdxd\AplicacionProxy\bin\Debug\netcoreapp3.1\AplicacionProxy.dll
+C:\Users\edwin\Desktop\Xdxdxd\AplicacionProxy\bin\Debug\netcoreapp3.1\AplicacionProxy.pdb
+C:\Users\edwin\Desktop\Xdxdxd\AplicacionProxy\obj\Debug\netcoreapp3.1\AplicacionProxy.csproj.AssemblyReference.cache
+C:\Users\edwin\Desktop\Xdxdxd\AplicacionProxy\obj\Debug\netcoreapp3.1\AplicacionProxy.AssemblyInfoInputs.cache
+C:\Users\edwin\Desktop\Xdxdxd\AplicacionProxy\obj\Debug\netcoreapp3.1\AplicacionProxy.AssemblyInfo.cs
+C:\Users\edwin\Desktop\Xdxdxd\AplicacionProxy\obj\Debug\netcoreapp3.1\AplicacionProxy.csproj.CoreCompileInputs.cache
+C:\Users\edwin\Desktop\Xdxdxd\AplicacionProxy\obj\Debug\netcoreapp3.1\AplicacionProxy.dll
+C:\Users\edwin\Desktop\Xdxdxd\AplicacionProxy\obj\Debug\netcoreapp3.1\AplicacionProxy.pdb
+C:\Users\edwin\Desktop\Xdxdxd\AplicacionProxy\obj\Debug\netcoreapp3.1\AplicacionProxy.genruntimeconfig.cache

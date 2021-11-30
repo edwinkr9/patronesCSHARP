@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NKwhIStiBtW96Tu/S9YmzlNFYbeKmgCq8axjOfEep4yn29MvlzrD+AEON8lXBfXBhGBAoU+duSQ04cYuPDKVaw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\edwin\\Desktop\\Xdxdxd\\AplicacionProxy\\AplicacionProxy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\edwin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
