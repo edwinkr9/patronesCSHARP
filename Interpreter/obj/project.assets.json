@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\edwin\\Desktop\\Xdxdxd\\Interpreter\\Interpreter.csproj",
+      "projectUniqueName": "C:\\Users\\edwin\\Desktop\\Xdxdxd\\Patrones\\Interpreter\\Interpreter.csproj",
       "projectName": "Interpreter",
-      "projectPath": "C:\\Users\\edwin\\Desktop\\Xdxdxd\\Interpreter\\Interpreter.csproj",
+      "projectPath": "C:\\Users\\edwin\\Desktop\\Xdxdxd\\Patrones\\Interpreter\\Interpreter.csproj",
       "packagesPath": "C:\\Users\\edwin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\edwin\\Desktop\\Xdxdxd\\Interpreter\\obj\\",
+      "outputPath": "C:\\Users\\edwin\\Desktop\\Xdxdxd\\Patrones\\Interpreter\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

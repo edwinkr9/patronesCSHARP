@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\edwin\\Desktop\\Xdxdxd\\AplicacionProxy\\AplicacionProxy.csproj": {}
+    "C:\\Users\\edwin\\Desktop\\Xdxdxd\\Patrones\\AplicacionProxy\\AplicacionProxy.csproj": {}
   },
   "projects": {
-    "C:\\Users\\edwin\\Desktop\\Xdxdxd\\AplicacionProxy\\AplicacionProxy.csproj": {
+    "C:\\Users\\edwin\\Desktop\\Xdxdxd\\Patrones\\AplicacionProxy\\AplicacionProxy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\edwin\\Desktop\\Xdxdxd\\AplicacionProxy\\AplicacionProxy.csproj",
+        "projectUniqueName": "C:\\Users\\edwin\\Desktop\\Xdxdxd\\Patrones\\AplicacionProxy\\AplicacionProxy.csproj",
         "projectName": "AplicacionProxy",
-        "projectPath": "C:\\Users\\edwin\\Desktop\\Xdxdxd\\AplicacionProxy\\AplicacionProxy.csproj",
+        "projectPath": "C:\\Users\\edwin\\Desktop\\Xdxdxd\\Patrones\\AplicacionProxy\\AplicacionProxy.csproj",
         "packagesPath": "C:\\Users\\edwin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\edwin\\Desktop\\Xdxdxd\\AplicacionProxy\\obj\\",
+        "outputPath": "C:\\Users\\edwin\\Desktop\\Xdxdxd\\Patrones\\AplicacionProxy\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

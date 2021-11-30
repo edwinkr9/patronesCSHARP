@@ -1,0 +1,10 @@
+C:\Users\edwin\Downloads\patr-n-observer-c-shar-master\patr-n-observer-c-shar-master\Observer1.UI\Observer1.UI\bin\Debug\Observer1.UI.exe.config
+C:\Users\edwin\Downloads\patr-n-observer-c-shar-master\patr-n-observer-c-shar-master\Observer1.UI\Observer1.UI\bin\Debug\Observer1.UI.exe
+C:\Users\edwin\Downloads\patr-n-observer-c-shar-master\patr-n-observer-c-shar-master\Observer1.UI\Observer1.UI\bin\Debug\Observer1.UI.pdb
+C:\Users\edwin\Downloads\patr-n-observer-c-shar-master\patr-n-observer-c-shar-master\Observer1.UI\Observer1.UI\obj\Debug\Observer1.UI.csproj.AssemblyReference.cache
+C:\Users\edwin\Downloads\patr-n-observer-c-shar-master\patr-n-observer-c-shar-master\Observer1.UI\Observer1.UI\obj\Debug\Observer1.UI.Form1.resources
+C:\Users\edwin\Downloads\patr-n-observer-c-shar-master\patr-n-observer-c-shar-master\Observer1.UI\Observer1.UI\obj\Debug\Observer1.UI.Properties.Resources.resources
+C:\Users\edwin\Downloads\patr-n-observer-c-shar-master\patr-n-observer-c-shar-master\Observer1.UI\Observer1.UI\obj\Debug\Observer1.UI.csproj.GenerateResource.cache
+C:\Users\edwin\Downloads\patr-n-observer-c-shar-master\patr-n-observer-c-shar-master\Observer1.UI\Observer1.UI\obj\Debug\Observer1.UI.csproj.CoreCompileInputs.cache
+C:\Users\edwin\Downloads\patr-n-observer-c-shar-master\patr-n-observer-c-shar-master\Observer1.UI\Observer1.UI\obj\Debug\Observer1.UI.exe
+C:\Users\edwin\Downloads\patr-n-observer-c-shar-master\patr-n-observer-c-shar-master\Observer1.UI\Observer1.UI\obj\Debug\Observer1.UI.pdb

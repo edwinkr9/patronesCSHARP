@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z32Td0CzUwcYSipo9IatLCTh4WCQcSEvImQHLGkelpoI879jfRU2qUWNkZmhxaU1Km+O+44D6tFFqO9f1knPVg==",
+  "dgSpecHash": "tZhpsdvB0skhLg7KXiLgfBCOZgpIclRymgnbn96MK0PaXbL8qPn2s/qUzfK2Z1Kz/kKY75MV0NI+31MYV/hMIQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\edwin\\Desktop\\Xdxdxd\\Practica1\\Practica1.csproj",
+  "projectFilePath": "C:\\Users\\edwin\\Desktop\\Xdxdxd\\Patrones\\Practica1\\Practica1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\edwin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
   ],
